@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anderson Jhonathan
 
-- 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Java e Kotlin
+- 🔭 Hoje eu trabalho com back-end e front-end.
+- 🌱 Estudando Java, Kotlin, Javascript e React.
 - 😄 Pronomes: ele/dele
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andersonjhonathan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
